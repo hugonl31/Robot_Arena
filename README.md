@@ -24,7 +24,7 @@ power-off.
 
 [The robots in real life](#the-robots-in-real-life) · [How to play](#how-to-play) · [Screenshots](#screenshots) ·
 [The cast](#the-cast) · [The bosses](#the-bosses) · [How the robots think](#how-the-robots-think) ·
-[Behind the scenes](#behind-the-scenes)
+[Behind the scenes](#behind-the-scenes) · [Overlay artwork](overlay/README.md)
 
 ---
 
@@ -233,5 +233,9 @@ The rules every robot shares, taken from the game's source:
   player does.
 * **The calibration screen** trims the Vectrex's zero reference. Every real console drifts a little, and the game lets
   you straighten your own.
+
+## Overlay artwork
+
+The exact layout of the game's screen overlay, with a brief for new artwork, is in [overlay/](overlay/README.md).
 
 <p align="center"><sub>Robot Arena · a Vectrex homebrew by Hugo Bokhorst · 2026</sub></p>
