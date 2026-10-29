@@ -234,7 +234,7 @@ def card(path, name, sub, draw, kind, seed, scale, cy):
     draw(a, W / 2, H * cy, W * scale, rnd)
     a.vignette(0.5)
     a.img *= (1 - 0.78 * np.clip((a.yy - (H - 200)) / 70, 0, 1))[..., None]    # (dark under the name plate)
-    a.chrome_title(name, W / 2, H - 92, 74, shear=-0.2, sx=0.95, depth=7)
+    a.chrome_title(name, W / 2, H - 92, 74 if len(name) <= 9 else int(74 * 9.5 / len(name)), shear=-0.2, sx=0.95, depth=7)
     a.fill(a.text_mask(sub, 'bahnschrift.ttf', 22, W / 2, H - 34), C('#ffd23f'))
     a.fill(np.clip(a.rect(0, 0, W, H) - a.rect(6, 6, W - 6, H - 6, r=14), 0, 1), C('#d83a2a'))
     a.grain(rnd, 0.025)

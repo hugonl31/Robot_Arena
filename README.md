@@ -18,10 +18,20 @@ happens to you.
 
 ## The robots
 
+**Arena 1**
+
 | | | | | |
 |:-:|:-:|:-:|:-:|:-:|
-| <img src="img/art/card_cross.png" width="160"><br><sub>Cross</sub> | <img src="img/art/card_hulk.png" width="160"><br><sub>Hulk</sub> | <img src="img/art/card_brain.png" width="160"><br><sub>Brain</sub> | <img src="img/art/card_tank.png" width="160"><br><sub>Tank</sub> | <img src="img/art/card_killer.png" width="160"><br><sub>Killer</sub> |
-| <img src="img/art/card_spheroid.png" width="160"><br><sub>Spheroid</sub> | <img src="img/art/card_guardian.png" width="160"><br><sub>The Guardian</sub> | <img src="img/art/card_overseer.png" width="160"><br><sub>The Overseer</sub> | <img src="img/art/card_hydra.png" width="160"><br><sub>The Hydra</sub> | <img src="img/art/card_architect.png" width="160"><br><sub>The Architect</sub> |
+| <img src="img/art/card_cross.png" width="160"><br><sub>Cross</sub> | <img src="img/art/card_hulk.png" width="160"><br><sub>Hulk</sub> | <img src="img/art/card_brain.png" width="160"><br><sub>Brain</sub> | <img src="img/art/card_prog.png" width="160"><br><sub>Prog</sub> | <img src="img/art/card_tank.png" width="160"><br><sub>Tank</sub> |
+| <img src="img/art/card_killer.png" width="160"><br><sub>Killer</sub> | <img src="img/art/card_spheroid.png" width="160"><br><sub>Spheroid</sub> | <img src="img/art/card_quark.png" width="160"><br><sub>Quark</sub> | <img src="img/art/card_bowtie.png" width="160"><br><sub>Small bowtie</sub> | <img src="img/art/card_strongbow.png" width="160"><br><sub>Strong bowtie</sub> |
+| <img src="img/art/card_layer.png" width="160"><br><sub>Mine layer</sub> | <img src="img/art/card_electrode.png" width="160"><br><sub>Electrode</sub> | <img src="img/art/card_praetorian.png" width="160"><br><sub>Praetorian</sub> | <img src="img/art/card_guardian.png" width="160"><br><sub>The Guardian</sub> | <img src="img/art/card_overseer.png" width="160"><br><sub>The Overseer</sub> |
+
+**Arena 2, The Core**
+
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+| <img src="img/art/card_splitter.png" width="160"><br><sub>Splitter</sub> | <img src="img/art/card_shieldbot.png" width="160"><br><sub>Shield bot</sub> | <img src="img/art/card_phaser.png" width="160"><br><sub>Phaser</sub> | <img src="img/art/card_sniper.png" width="160"><br><sub>Sniper</sub> | <img src="img/art/card_orbiter.png" width="160"><br><sub>Orbiter</sub> |
+| <img src="img/art/card_fence.png" width="160"><br><sub>Laser fence</sub> | <img src="img/art/card_centipede.png" width="160"><br><sub>Centipede</sub> | <img src="img/art/card_hydra.png" width="160"><br><sub>The Hydra</sub> | <img src="img/art/card_architect.png" width="160"><br><sub>The Architect</sub> |  |
 
 ## Contents
 
