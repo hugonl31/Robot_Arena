@@ -16,11 +16,18 @@ into a full campaign built around what the Vectrex does best: sharp, bright vect
 own behaviour, every act changes the rules, and the difficulty is something you choose, not something that just
 happens to you.
 
+## The robots
+
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+| <img src="img/art/card_cross.png" width="160"><br><sub>Cross</sub> | <img src="img/art/card_hulk.png" width="160"><br><sub>Hulk</sub> | <img src="img/art/card_brain.png" width="160"><br><sub>Brain</sub> | <img src="img/art/card_tank.png" width="160"><br><sub>Tank</sub> | <img src="img/art/card_killer.png" width="160"><br><sub>Killer</sub> |
+| <img src="img/art/card_spheroid.png" width="160"><br><sub>Spheroid</sub> | <img src="img/art/card_guardian.png" width="160"><br><sub>The Guardian</sub> | <img src="img/art/card_overseer.png" width="160"><br><sub>The Overseer</sub> | <img src="img/art/card_hydra.png" width="160"><br><sub>The Hydra</sub> | <img src="img/art/card_architect.png" width="160"><br><sub>The Architect</sub> |
+
 ## Contents
 
-[Features](#features) · [Gameplay](#gameplay) · [Screenshots](#screenshots) · [The cast](#the-cast) ·
+[The robots](#the-robots) · [Features](#features) · [Gameplay](#gameplay) · [Screenshots](#screenshots) · [The cast](#the-cast) ·
 [The bosses](#the-bosses) · [How the robots think](#how-the-robots-think) · [Under the hood](#under-the-hood) ·
-[Concept art](#concept-art) · [Overlay artwork](overlay/README.md)
+[Overlay artwork](overlay/README.md)
 
 ---
 
@@ -220,13 +227,6 @@ instant.
   setting is saved.
 
 ---
-
-## Concept art
-
-| | | | | |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="img/art/card_cross.png" width="160"> | <img src="img/art/card_hulk.png" width="160"> | <img src="img/art/card_brain.png" width="160"> | <img src="img/art/card_tank.png" width="160"> | <img src="img/art/card_killer.png" width="160"> |
-| <img src="img/art/card_spheroid.png" width="160"> | <img src="img/art/card_guardian.png" width="160"> | <img src="img/art/card_overseer.png" width="160"> | <img src="img/art/card_hydra.png" width="160"> | <img src="img/art/card_architect.png" width="160"> |
 
 ## Overlay artwork
 
