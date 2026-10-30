@@ -16,6 +16,16 @@ into a full campaign built around what the Vectrex does best: sharp, bright vect
 own behaviour, every act changes the rules, and the difficulty is something you choose, not something that just
 happens to you.
 
+## Download
+
+**[Robot Arena v1.0](https://github.com/hugonl31/Robot_Arena/releases/latest)**: the 64 KB cartridge ROM
+(`Robot_Arena.bin`) and the screen overlay (`Robot_Arena_overlay.png`). To try it right away, the release also has
+[Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU) for Windows, macOS and Linux, with Robot Arena and its overlay
+already in it.
+
+On a real Vectrex the ROM needs a cartridge with a 64 KB EPROM banked by PB6 (such as the board below) or a flash
+cartridge that supports it. Saves need the optional DS2431 chip; without it the game runs the same, without saves.
+
 ## Screenshots
 
 Every shot and GIF here was made on **[Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU)**, the Vectrex emulator with the real tube look: phosphor afterglow, the curved glass, room light and the overlay.
@@ -90,7 +100,7 @@ The stills are staged: test cartridges freeze a composed moment, drawn by the ga
 
 ## Contents
 
-[Screenshots](#screenshots) · [The cartridge](#the-cartridge) · [The robots](#the-robots) · [Features](#features) · [Gameplay](#gameplay) · [The cast](#the-cast) ·
+[Download](#download) · [Screenshots](#screenshots) · [The cartridge](#the-cartridge) · [The robots](#the-robots) · [Features](#features) · [Gameplay](#gameplay) · [The cast](#the-cast) ·
 [The bosses](#the-bosses) · [How the robots think](#how-the-robots-think) · [Under the hood](#under-the-hood) ·
 [Overlay artwork](overlay/README.md)
 
