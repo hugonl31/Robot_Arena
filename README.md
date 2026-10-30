@@ -18,6 +18,8 @@ happens to you.
 
 ## Screenshots
 
+Every shot and GIF here was made on **[Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU)**, the Vectrex emulator with the real tube look: phosphor afterglow, the curved glass, room light and the overlay.
+
 <p align="center">
 <img src="img/gif/overseer.gif" width="380" alt="The fighter dodges and fires at the Overseer as it drifts across the arena laying mines">
 <img src="img/gif/guardian.gif" width="380" alt="With the overlay: the fighter circles the Guardian, breaking off its armour plates while crosses swarm in"><br>
@@ -45,7 +47,7 @@ happens to you.
 | <img src="img/snaps/title.png" width="190"><br><sub>The title</sub> | <img src="img/snaps/level_intro.png" width="190"><br><sub>Robots caged before the countdown</sub> | <img src="img/snaps/guardian.png" width="190"><br><sub>Level 20: the Guardian</sub> | <img src="img/snaps/quarks.png" width="190"><br><sub>Act III: Quarks build Tanks</sub> |
 | <img src="img/snaps/swarm.png" width="190"><br><sub>A swarm ring closing in</sub> | <img src="img/snaps/last_stand.png" width="190"><br><sub>Act IV: everything at once</sub> | <img src="img/snaps/hydra.png" width="190"><br><sub>Arena 2: the Hydra</sub> | <img src="img/snaps/architect.png" width="190"><br><sub>The Architect builds a fence</sub> |
 
-<sub>All on the Vectrex_EMU emulator with the Robot Arena overlay. The GIFs are real play by the game's balancing bot.
+<sub>The GIFs are real play by the game's balancing bot.
 The stills are staged: test cartridges freeze a composed moment, drawn by the game's own code.</sub>
 
 ---
