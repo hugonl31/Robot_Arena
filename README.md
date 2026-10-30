@@ -52,6 +52,25 @@ The stills are staged: test cartridges freeze a composed moment, drawn by the ga
 
 ---
 
+## The cartridge
+
+<p align="center">
+<img src="img/pcb/board_spin.gif" width="400" alt="The Robot Arena cartridge board turning: the W27C512 EPROM, the gold ROBOT ARENA title on the front, the Vectrex logo on the back">
+<img src="img/art/cart_label.png" width="360" alt="The Robot Arena cartridge label"><br>
+<sub>The cartridge board (KiCad 3D render) and the label.</sub>
+</p>
+
+* **Pure Vectrex.** The game runs on the console's own 6809 at 1.5 MHz with its 1 KB of RAM. No UVMC2, PiTrex or
+  other extra hardware: it plugs into any Vectrex like a 1982 cartridge.
+* **64 KB, full.** The board carries one W27C512 EPROM, a resistor and a capacitor, plus an optional DS2431 for the
+  saves. The VIA's PB6 line drives A15 and switches between the two 32 KB banks. Of the 65,536 bytes, 247 are free
+  (99.6 % used): there is no room for another robot, boss or arena.
+* **The board:** 54 × 66 mm, two layers, gold (ENIG) edge fingers. The ROBOT ARENA title on the front and the Vectrex
+  logo on the back are openings in the solder mask, so they come out in gold. The board is based on the open
+  [Vectrex_Cart_PCB](https://github.com/hugonl31/Vectrex_Cart_PCB) design.
+
+---
+
 ## The robots
 
 **Arena 1**
@@ -71,7 +90,7 @@ The stills are staged: test cartridges freeze a composed moment, drawn by the ga
 
 ## Contents
 
-[Screenshots](#screenshots) · [The robots](#the-robots) · [Features](#features) · [Gameplay](#gameplay) · [The cast](#the-cast) ·
+[Screenshots](#screenshots) · [The cartridge](#the-cartridge) · [The robots](#the-robots) · [Features](#features) · [Gameplay](#gameplay) · [The cast](#the-cast) ·
 [The bosses](#the-bosses) · [How the robots think](#how-the-robots-think) · [Under the hood](#under-the-hood) ·
 [Overlay artwork](overlay/README.md)
 
