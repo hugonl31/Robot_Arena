@@ -23,8 +23,16 @@ happens to you.
 [Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU) for Windows, macOS and Linux, with Robot Arena and its overlay
 already in it.
 
-On a real Vectrex the ROM needs a cartridge with a 64 KB EPROM banked by PB6 (such as the board below) or a flash
-cartridge that supports it. Saves need the optional DS2431 chip; without it the game runs the same, without saves.
+On a real Vectrex the ROM needs a cartridge with a 64 KB EPROM banked by PB6, or a flash cartridge that supports
+it. Saves need the optional DS2431 chip; without it the game runs the same, without saves.
+
+**Make your own cartridge:** the [64K board](https://github.com/hugonl31/Vectrex_Cart_PCB/tree/main/boards/v1_27c512_64k)
+on [Vectrex_Cart_PCB](https://github.com/hugonl31/Vectrex_Cart_PCB) is made for this: a 27C512 EPROM, PB6 bank
+switching and a place for the DS2431. It has Gerbers ready to order from a board maker, the parts list, and a
+3D-printed shell. Burn `Robot_Arena.bin` into the EPROM and it plugs into any Vectrex.
+
+**About the emulator:** [Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU) has the full story: the real tube
+look, overlays, the settings, online play, and newer versions.
 
 ## Screenshots
 
