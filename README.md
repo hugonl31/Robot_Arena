@@ -16,6 +16,40 @@ into a full campaign built around what the Vectrex does best: sharp, bright vect
 own behaviour, every act changes the rules, and the difficulty is something you choose, not something that just
 happens to you.
 
+## Screenshots
+
+<p align="center">
+<img src="img/gif/overseer.gif" width="380" alt="The fighter dodges and fires at the Overseer as it drifts across the arena laying mines">
+<img src="img/gif/guardian.gif" width="380" alt="With the overlay: the fighter circles the Guardian, breaking off its armour plates while crosses swarm in"><br>
+<sub>Played live: the Overseer on the bare tube, and the Guardian with the overlay, both in evening light.</sub>
+</p>
+
+**With the overlay**
+
+| | |
+|:-:|:-:|
+| <img src="img/promo/harvest_overlay_day.png" width="400"><br><sub>Daylight · Level 15: crosses and Hulks close in, a Brain fires a cruise missile</sub> | <img src="img/promo/overseer_overlay_day.png" width="400"><br><sub>Daylight · Level 37: inside the Overseer's spark ring</sub> |
+| <img src="img/promo/factory_overlay_evening.png" width="400"><br><sub>Evening · Level 25: a Quark builds Tanks, Killers fire homing arrows</sub> | <img src="img/promo/overseer_overlay_evening.png" width="400"><br><sub>Evening · the Overseer's homing missiles curve after you</sub> |
+
+**The bare tube**
+
+| | |
+|:-:|:-:|
+| <img src="img/promo/bowties_glass_day.png" width="400"><br><sub>Daylight · Level 13: bowties fire double-dot bullets</sub> | <img src="img/promo/snipers_glass_day.png" width="400"><br><sub>Daylight · Arena 2: a Sniper locks on, laser fences, a centipede</sub> |
+| <img src="img/promo/bomb_glass_evening.png" width="400"><br><sub>Evening · Level 27: a bomb's shock wave sweeps the arena</sub> | <img src="img/promo/core_glass_evening.png" width="400"><br><sub>Evening · Arena 2: Orbiters circle the ship, a Splitter bursts</sub> |
+
+**More of the game**
+
+| | | | |
+|:-:|:-:|:-:|:-:|
+| <img src="img/snaps/title.png" width="190"><br><sub>The title</sub> | <img src="img/snaps/level_intro.png" width="190"><br><sub>Robots caged before the countdown</sub> | <img src="img/snaps/guardian.png" width="190"><br><sub>Level 20: the Guardian</sub> | <img src="img/snaps/quarks.png" width="190"><br><sub>Act III: Quarks build Tanks</sub> |
+| <img src="img/snaps/swarm.png" width="190"><br><sub>A swarm ring closing in</sub> | <img src="img/snaps/last_stand.png" width="190"><br><sub>Act IV: everything at once</sub> | <img src="img/snaps/hydra.png" width="190"><br><sub>Arena 2: the Hydra</sub> | <img src="img/snaps/architect.png" width="190"><br><sub>The Architect builds a fence</sub> |
+
+<sub>All on the Vectrex_EMU emulator with the Robot Arena overlay. The GIFs are real play by the game's balancing bot.
+The stills are staged: test cartridges freeze a composed moment, drawn by the game's own code.</sub>
+
+---
+
 ## The robots
 
 **Arena 1**
@@ -35,7 +69,7 @@ happens to you.
 
 ## Contents
 
-[The robots](#the-robots) · [Features](#features) · [Gameplay](#gameplay) · [Screenshots](#screenshots) · [The cast](#the-cast) ·
+[Screenshots](#screenshots) · [The robots](#the-robots) · [Features](#features) · [Gameplay](#gameplay) · [The cast](#the-cast) ·
 [The bosses](#the-bosses) · [How the robots think](#how-the-robots-think) · [Under the hood](#under-the-hood) ·
 [Overlay artwork](overlay/README.md)
 
@@ -108,18 +142,6 @@ Architect.
 
 Finish Arena 1 on HARD to become **KING OF THE ARENA**, and Arena 2 on HARD for **KING OF THE GALAXY**. Finish on EASY
 or MEDIUM and the game offers to raise the difficulty for the next run.
-
----
-
-## Screenshots
-
-| | | |
-|:-:|:-:|:-:|
-| <img src="img/snaps/title.png" width="250"><br><sub>Title</sub> | <img src="img/snaps/title_roster.png" width="250"><br><sub>The roster</sub> | <img src="img/snaps/level_intro.png" width="250"><br><sub>Robots caged before the countdown</sub> |
-| <img src="img/snaps/crosses_hulks.png" width="250"><br><sub>Crosses and Hulks</sub> | <img src="img/snaps/swarm.png" width="250"><br><sub>A swarm ring closing in</sub> | <img src="img/snaps/brains.png" width="250"><br><sub>Act II: brains and killers</sub> |
-| <img src="img/snaps/guardian.png" width="250"><br><sub>Level 20: the Guardian</sub> | <img src="img/snaps/factory.png" width="250"><br><sub>Act III: the factory</sub> | <img src="img/snaps/late_mix.png" width="250"><br><sub>Act IV: everything at once</sub> |
-| <img src="img/snaps/overseer.png" width="250"><br><sub>Level 37: the Overseer</sub> | <img src="img/snaps/arena2_intro.png" width="250"><br><sub>Arena 2</sub> | <img src="img/snaps/laser_fence.png" width="250"><br><sub>Laser fences</sub> |
-| <img src="img/snaps/centipedes.png" width="250"><br><sub>Centipedes</sub> | <img src="img/snaps/hydra.png" width="250"><br><sub>The Hydra</sub> | <img src="img/snaps/architect.png" width="250"><br><sub>The Architect building a fence</sub> |
 
 ---
 

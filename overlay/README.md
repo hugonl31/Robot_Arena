@@ -22,7 +22,7 @@ exact layout of the Robot Arena overlay, so new artwork can be painted for it. T
 | [mask_4x.png](mask_4x.png) | White = printed artwork, black = see-through. |
 | [finish.py](finish.py) | `python finish.py ART.png [OUT.png]` crops and scales finished artwork to the sheet, cuts the window and the boxes exactly, and puts the coloured filters back. |
 | [make_template.py](make_template.py), [layout5.json](layout5.json) | How the template is made: the tube outline and the HUD boxes, measured from the game running on the emulator. |
-| [current_overlay.png](current_overlay.png) | The overlay in use now: a simple placeholder frame. |
+| [current_overlay.png](current_overlay.png) | **The final overlay** (1109 x 1418 px): the arena city at night, the ROBOT ARENA logo, the five HUD boxes. |
 
 ## Brief
 
