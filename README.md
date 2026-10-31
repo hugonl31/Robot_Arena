@@ -75,7 +75,8 @@ The stills are staged: test cartridges freeze a composed moment, drawn by the ga
 <p align="center">
 <img src="img/pcb/board_spin.gif" width="400" alt="The Steel Siege cartridge board turning: the W27C512 EPROM, the gold STEEL SIEGE title on the front, the Vectrex logo on the back">
 <img src="img/art/cart_render.jpg" width="400" alt="The Steel Siege cartridge: a clear amber shell with the STEEL SIEGE label, the board visible inside"><br>
-<sub>The cartridge board (KiCad 3D render) and the finished cartridge.</sub>
+<img src="img/art/cart_render_back.jpg" width="400" alt="The Steel Siege cartridge from the other end: the gold edge fingers through the clear shell, the label on top"><br>
+<sub>The cartridge board (KiCad 3D render) and the finished cartridge from both ends.</sub>
 </p>
 
 * **Pure Vectrex.** The game runs on the console's own 6809 at 1.5 MHz with its 1 KB of RAM. No UVMC2, PiTrex or
