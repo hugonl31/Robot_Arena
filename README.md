@@ -1,6 +1,6 @@
-<p align="center"><img src="img/art/box_front.png" width="560" alt="Robot Arena box art: the Guardian looms over the arena, Cross walkers march across the grid and the fighter fires"></p>
+<p align="center"><img src="img/art/box_front.png" width="560" alt="Steel Siege box art: the Guardian looms over the arena, Cross walkers march across the grid and the fighter fires"></p>
 
-<h1 align="center">ROBOT ARENA</h1>
+<h1 align="center">STEEL SIEGE</h1>
 <p align="center"><b>An arena shooter for the Vectrex · 70 levels · 2 arenas · 4 bosses</b><br>
 <sub>6809 assembly · 64 KiB bank-switched cartridge · optional DS2431 save chip</sub></p>
 
@@ -11,16 +11,16 @@ for them in waves. One fighter is left. Get the humans out, break the waves, and
 at the centre of it all. Beat it, and what is left of the robots falls back to **The Core**, the factory that builds
 them. Follow them in.
 
-Robot Arena started as a love letter to Williams' *Robotron: 2084* and Thomas Sontowski's *Robot Arena*, and grew
+Steel Siege started as a love letter to Williams' *Robotron: 2084* and Thomas Sontowski's *Robot Arena*, and grew
 into a full campaign built around what the Vectrex does best: sharp, bright vectors moving fast. Every robot has its
 own behaviour, every act changes the rules, and the difficulty is something you choose, not something that just
 happens to you.
 
 ## Download
 
-**[Robot Arena v1.0](https://github.com/hugonl31/Robot_Arena/releases/latest)**: the 64 KB cartridge ROM
-(`Robot_Arena.bin`) and the screen overlay (`Robot_Arena_overlay.png`). To try it right away, the release also has
-[Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU) for Windows, macOS and Linux, with Robot Arena and its overlay
+**[Steel Siege v1.0](https://github.com/hugonl31/Steel_Siege/releases/latest)**: the 64 KB cartridge ROM
+(`Steel_Siege.bin`) and the screen overlay (`Steel_Siege_overlay.png`). To try it right away, the release also has
+[Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU) for Windows, macOS and Linux, with Steel Siege and its overlay
 already in it.
 
 On a real Vectrex the ROM needs a cartridge with a 64 KB EPROM banked by PB6, or a flash cartridge that supports
@@ -29,7 +29,7 @@ it. Saves need the optional DS2431 chip; without it the game runs the same, with
 **Make your own cartridge:** the [64K board](https://github.com/hugonl31/Vectrex_Cart_PCB/tree/main/boards/v1_27c512_64k)
 on [Vectrex_Cart_PCB](https://github.com/hugonl31/Vectrex_Cart_PCB) is made for this: a 27C512 EPROM, PB6 bank
 switching and a place for the DS2431. It has Gerbers ready to order from a board maker, the parts list, and a
-3D-printed shell. Burn `Robot_Arena.bin` into the EPROM and it plugs into any Vectrex.
+3D-printed shell. Burn `Steel_Siege.bin` into the EPROM and it plugs into any Vectrex.
 
 **About the emulator:** [Vectrex_EMU](https://github.com/hugonl31/Vectrex_EMU) has the full story: the real tube
 look, overlays, the settings, online play, and newer versions.
@@ -73,17 +73,17 @@ The stills are staged: test cartridges freeze a composed moment, drawn by the ga
 ## The cartridge
 
 <p align="center">
-<img src="img/pcb/board_spin.gif" width="400" alt="The Robot Arena cartridge board turning: the W27C512 EPROM, the gold ROBOT ARENA title on the front, the Vectrex logo on the back">
-<img src="img/art/cart_render.jpg" width="400" alt="The Robot Arena cartridge: a clear amber shell with the ROBOT ARENA label, the board visible inside"><br>
+<img src="img/pcb/board_spin.gif" width="400" alt="The Steel Siege cartridge board turning: the W27C512 EPROM, the gold STEEL SIEGE title on the front, the Vectrex logo on the back">
+<img src="img/art/cart_render.jpg" width="400" alt="The Steel Siege cartridge: a clear amber shell with the STEEL SIEGE label, the board visible inside"><br>
 <sub>The cartridge board (KiCad 3D render) and the finished cartridge.</sub>
 </p>
 
 * **Pure Vectrex.** The game runs on the console's own 6809 at 1.5 MHz with its 1 KB of RAM. No UVMC2, PiTrex or
   other extra hardware: it plugs into any Vectrex like a 1982 cartridge.
 * **64 KB, full.** The board carries one W27C512 EPROM, a resistor and a capacitor, plus an optional DS2431 for the
-  saves. The VIA's PB6 line drives A15 and switches between the two 32 KB banks. Of the 65,536 bytes, 247 are free
+  saves. The VIA's PB6 line drives A15 and switches between the two 32 KB banks. Of the 65,536 bytes, 251 are free
   (99.6 % used): there is no room for another robot, boss or arena.
-* **The board:** 54 × 66 mm, two layers, gold (ENIG) edge fingers. The ROBOT ARENA title on the front and the Vectrex
+* **The board:** 54 × 66 mm, two layers, gold (ENIG) edge fingers. The STEEL SIEGE title on the front and the Vectrex
   logo on the back are openings in the solder mask, so they come out in gold. The board is based on the open
   [Vectrex_Cart_PCB](https://github.com/hugonl31/Vectrex_Cart_PCB) design.
 
@@ -303,4 +303,4 @@ instant.
 
 The exact layout of the screen overlay, with a brief for new artwork: [overlay/](overlay/README.md).
 
-<p align="center"><sub>Robot Arena · a Vectrex homebrew by Hugo Bokhorst · 2026</sub></p>
+<p align="center"><sub>Steel Siege · a Vectrex homebrew by Hugo Bokhorst · 2026</sub></p>
